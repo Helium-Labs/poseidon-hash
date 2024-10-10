@@ -1,6 +1,6 @@
 {
   "name": "poseidon-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript implementation of the ZK-SNARK friendly Poseidon hash function in isolation, with no dependencies.",
   "scripts": {
     "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
